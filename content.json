@@ -1,0 +1,701 @@
+{
+  "photo": "assets/foto-profil.jpg",
+  "ed": {
+    "id": {
+      "bio": "Mahasiswa Akuntansi · Ak'24",
+      "foot": "",
+      "d0": "Program studi Akuntansi",
+      "d1": "Barang favoritku di Toktok",
+      "d2": "Koleksi rekomendasi Shopee",
+      "d3": "Ikuti keseharianku",
+      "d4": "Video dan konten terbaru",
+      "d5": "Profil profesional",
+      "t_dark": "",
+      "t_light": "",
+      "t_auto": "",
+      "ly_v": "☰",
+      "ly_h": "▭▭",
+      "a0": "Mahasiswa aktif Akuntansi Universitas Muhammadiyah Yogyakarta (UMY) berlatar belakang pendidikan pesantren, dengan pengalaman dalam pendampingan dan pengajaran Al-Qur'an serta pemahaman yang mendalam tentang tajwid dan ilmu gharib. Terbiasa bekerja secara mandiri maupun dalam tim, dengan kemampuan manajerial, administrasi, dan koordinasi yang baik melalui organisasi mahasiswa, kepanitiaan, dan program magang. Berorientasi pada detail, memiliki kemampuan analisis yang baik, serta tertarik pada bidang keuangan, pengelolaan data, dan kegiatan sosial, termasuk kepedulian terhadap hak tumbuh kembang dan kesehatan anak. Aktif mengembangkan diri melalui organisasi, seminar, kompetisi, dan pelatihan, serta tertarik berkontribusi sebagai Liaison Officer (LO) yang memberikan pendampingan dan pelayanan terbaik kepada peserta, pembicara, maupun tamu kegiatan.",
+      "ab_intro": "",
+      "ab_edu": "Pendidikan"
+    },
+    "en": {
+      "t_dark": "",
+      "t_light": "",
+      "t_auto": "",
+      "ly_v": "☰",
+      "ly_h": "▭▭",
+      "foot": "",
+      "n_p1": "About",
+      "n_about": "About",
+      "ab_edu": "Education",
+      "a0": "Active Accounting student at Universitas Muhammadiyah Yogyakarta (UMY) with a pesantren (Islamic boarding school) educational background, experienced in mentoring and teaching the Qur'an and with a deep understanding of tajwid and gharib sciences. Used to working both independently and in teams, with strong managerial, administrative, and coordination skills gained through student organizations, committees, and internship programs. Detail-oriented with good analytical skills, interested in finance, data management, and social activities, including concern for children's growth, development, and health rights. Actively developing myself through organizations, seminars, competitions, and training, and keen to contribute as a Liaison Officer (LO) providing the best guidance and service to participants, speakers, and event guests.",
+      "ab_intro": "",
+      "n_links": "Additional"
+    },
+    "fr": {
+      "a0": "Étudiante active en comptabilité à l'Universitas Muhammadiyah Yogyakarta (UMY), issue d'une formation en pesantren (école coranique), avec une expérience d'accompagnement et d'enseignement du Coran et une solide compréhension du tajwid et des sciences du gharib. Habituée à travailler de façon autonome comme en équipe, avec de bonnes compétences de gestion, d'administration et de coordination acquises au sein d'organisations étudiantes, de comités et de stages. Rigoureuse, dotée d'un bon esprit d'analyse, et intéressée par la finance, la gestion des données et les activités sociales, notamment le droit des enfants à la croissance, au développement et à la santé. Je me perfectionne activement grâce aux organisations, séminaires, compétitions et formations, et souhaite contribuer en tant que Liaison Officer (LO) pour offrir le meilleur accompagnement et service aux participants, intervenants et invités."
+    },
+    "zh": {
+      "a0": "日惹穆罕默迪亚大学（UMY）会计专业在读学生，具有传统伊斯兰寄宿学校（pesantren）教育背景，拥有《古兰经》辅导与教学经验，并深入掌握诵读规则（tajwid）与生僻词（gharib）知识。习惯独立工作，也善于团队合作，通过学生组织、活动筹备委员会和实习项目积累了良好的管理、行政与协调能力。注重细节，分析能力强，对金融、数据管理和社会活动感兴趣，同时关注儿童的成长发育与健康权利。积极通过组织、研讨会、竞赛和培训提升自己，希望担任联络官（LO），为参与者、演讲嘉宾和活动来宾提供最佳的陪伴与服务。"
+    }
+  },
+  "order": [
+    "home",
+    "about",
+    "exp",
+    "org",
+    "ach",
+    "skl",
+    "lab",
+    "contact",
+    "games",
+    "links"
+  ],
+  "cards": {
+    "order": [
+      0,
+      1,
+      2,
+      5,
+      3,
+      4
+    ],
+    "icon": {},
+    "title": {},
+    "url": {},
+    "custom": {}
+  },
+  "pages": {},
+  "design": {
+    "hue": null,
+    "sat": 100,
+    "accent": null,
+    "font": 0,
+    "items": []
+  },
+  "hidden": [],
+  "contact": {
+    "rows": [
+      {
+        "icon": "in",
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/kumaladesy",
+        "url": "https://www.linkedin.com/in/kumaladesy"
+      },
+      {
+        "icon": "mail",
+        "label": "Email",
+        "value": "kumaladesy04@gmail.com",
+        "url": ""
+      },
+      {
+        "icon": "ig",
+        "label": "Instagram",
+        "value": "@lalalia_k",
+        "url": "https://www.instagram.com/lalalia_k/"
+      },
+      {
+        "icon": "tt",
+        "label": "TikTok",
+        "value": "@rays.khaila",
+        "url": "https://tiktok.com/@rays.khaila"
+      },
+      {
+        "icon": "pin",
+        "label": "Lokasi",
+        "value": "Yogyakarta",
+        "url": "https://maps.app.goo.gl/WB3sjkCEe6tQD3VC8"
+      }
+    ],
+    "dest": {
+      "email": "",
+      "tg": "",
+      "line": ""
+    },
+    "form": [
+      {
+        "id": "n",
+        "type": "text",
+        "key": "f_name"
+      },
+      {
+        "id": "e",
+        "type": "email",
+        "key": "f_mail"
+      },
+      {
+        "id": "s",
+        "type": "text",
+        "key": "f_subj"
+      },
+      {
+        "id": "m",
+        "type": "area",
+        "key": "f_msg"
+      }
+    ],
+    "via": [
+      {
+        "type": "tg",
+        "label": "Telegram",
+        "to": "@Lalalia_k"
+      },
+      {
+        "type": "email",
+        "label": "Email",
+        "to": "kumaladesy04@gmail.com"
+      },
+      {
+        "type": "line",
+        "label": "LINE",
+        "to": ""
+      }
+    ],
+    "viaV": 2
+  },
+  "socials": [
+    {
+      "icon": "ig",
+      "url": "https://www.instagram.com/lalalia_k/"
+    },
+    {
+      "icon": "tt",
+      "url": "https://tiktok.com/@rays.khaila"
+    },
+    {
+      "icon": "in",
+      "url": "https://www.linkedin.com/in/kumaladesy"
+    }
+  ],
+  "about": {
+    "order": [
+      "intro",
+      "edu"
+    ],
+    "photo": "assets/about-photo.jpg",
+    "edu": [
+      {
+        "y": "2024 – Sekarang",
+        "t": "Universitas Muhammadiyah Yogyakarta",
+        "d": "",
+        "x": [],
+        "g": [
+          "assets/about-edu-0-g-0.jpg",
+          "assets/about-edu-0-g-1.jpg"
+        ],
+        "lv": "",
+        "m": "S1 Akuntansi",
+        "w": "https://www.umy.ac.id/en/"
+      },
+      {
+        "y": "2021 – 2024",
+        "lv": "",
+        "t": "MAN 3 Magetan",
+        "m": "Matematika dan Ilmu Pengetahuan Alam (MIPA)",
+        "d": "",
+        "x": [],
+        "g": [
+          "assets/about-edu-0-g-0.jpg",
+          "assets/about-edu-0-g-1.jpg"
+        ],
+        "w": "https://www.instagram.com/man3magetan?utm_source=ig_web_button_share_sheet&vrfl=ZDNlZDc0MzIxNw=="
+      }
+    ],
+    "blk": {
+      "intro": {
+        "w": 100,
+        "a": "c"
+      },
+      "edu": {
+        "w": 90,
+        "a": "l"
+      },
+      "links": {
+        "w": 100,
+        "a": "l"
+      }
+    },
+    "ph": {
+      "w": 481,
+      "x": 0,
+      "y": -10
+    },
+    "eduLay": "v",
+    "btns": [
+      {
+        "icon": "📄",
+        "label": "Download CV",
+        "url": "",
+        "f": "assets/CV_KUMALA_DESY.pdf",
+        "fn": "CV_KUMALA_DESY.pdf"
+      },
+      {
+        "icon": "mail",
+        "label": "Hubungi aku",
+        "url": "",
+        "f": "",
+        "fn": "",
+        "go": "contact"
+      }
+    ],
+    "fold": [],
+    "eduLn": "solid",
+    "back": ""
+  },
+  "cv": {
+    "exp": [
+      {
+        "t": "Staf Treasurer",
+        "o": "Internship by Podcast Somestory",
+        "p": "Januari 2026 – Juni 2026",
+        "u": "https://www.instagram.com/p/DVp871tEs_x/?img_index=6&igsh=MXh5NDNnN3FjZ2E4bQ==",
+        "b": [
+          "Mencatat dan merekap seluruh transaksi pemasukan serta pengeluaran operasional menggunakan Odoo dan Google Spreadsheets untuk menyusun laporan transparansi keuangan bulanan.",
+          "Melakukan peninjauan (audit) berkala terhadap kesesuaian data keuangan, serta mengingatkan anggota divisi terkait pembayaran kas rutin."
+        ],
+        "g": []
+      },
+      {
+        "t": "Sekretaris Departemen Business and Finance",
+        "o": "Internship by Podcast Somestory",
+        "p": "Juli 2025 – Desember 2025",
+        "u": "",
+        "b": [
+          "Menyusun notulen rapat mingguan, mengelola absensi, dan mengurus administrasi surat-menyurat.",
+          "Menangani pembuatan dokumen bisnis, termasuk surat permohonan, sponsorship, dan surat peringatan."
+        ],
+        "g": []
+      }
+    ],
+    "org": [
+      {
+        "t": "Staf Bendahara",
+        "o": "KASI PANDU by Direktorat PPM PPI Dunia",
+        "p": "Maret 2026 – April 2026",
+        "u": "https://www.instagram.com/p/DVzD2fzCGCE/?igsh=MXU2MWczZXc3dXBqOQ==",
+        "b": [
+          "Mengoordinasikan anggaran dengan menyurvei kebutuhan dana ke seluruh divisi untuk memastikan perencanaan keuangan yang akurat.",
+          "Menyusun tabel estimasi pendanaan secara sistematis untuk kebutuhan dokumen proposal kegiatan."
+        ]
+      },
+      {
+        "t": "Mentor Nasional",
+        "o": "KASI PANDU by Direktorat PPM PPI Dunia",
+        "p": "Maret 2026 – April 2026",
+        "u": "https://www.instagram.com/p/DVyHVtfiB2e/?igsh=MXF4enJ2bnk1N3lyMg==",
+        "b": [
+          "Berperan sebagai mentor bagi anak-anak untuk membangun kepercayaan diri, memotivasi mereka mencapai cita-cita, dan menanamkan sikap pantang menyerah melalui pendekatan sebaya.",
+          "Mengonsep dan menyusun media pembelajaran berupa presentasi (PPT) interaktif agar suasana belajar partisipatif dan mudah dipahami peserta."
+        ]
+      },
+      {
+        "t": "Sekretaris Satu",
+        "o": "UKM Kelompok Penelitian Mahasiswa UMY",
+        "p": "September 2025 – Agustus 2026",
+        "u": "https://www.instagram.com/p/DRi_Qa7kuxV/?igsh=MWh3NWo3YzV3YzNwag==",
+        "b": [
+          "Mengelola administrasi organisasi, termasuk notulen, inventaris, dan pengarsipan surat.",
+          "Menyusun proposal kegiatan, mengurus alur persuratan, dan menyelesaikan Laporan Pertanggungjawaban (LPJ) secara terstruktur setelah rangkaian acara selesai.",
+          "Mengelola pengarsipan dokumen rapat, menyusun dan memelihara database internal anggota, serta menyusun notulensi berkala untuk menjaga transparansi data organisasi.",
+          "Melakukan pengecekan proposal kegiatan."
+        ]
+      },
+      {
+        "t": "Sekretaris",
+        "o": "Panitia KASI PANDU by PPID",
+        "p": "Februari 2025 – Mei 2025",
+        "u": "",
+        "b": [
+          "Membuat surat-menyurat terkait kegiatan KASI PANDU.",
+          "Menyusun notulensi rapat divisi secara rapi dan sistematis."
+        ]
+      },
+      {
+        "t": "Sekretaris, Divisi Eksibisi",
+        "o": "Panitia Sustainable Economic Development Expo PPI Dunia 2025",
+        "p": "Januari 2025 – Februari 2025",
+        "u": "",
+        "b": [
+          "Menyusun notulensi rapat divisi secara rapi dan sistematis.",
+          "Mengoordinasikan informasi jadwal rapat dengan membagikan detail pertemuan berikutnya kepada tim."
+        ]
+      },
+      {
+        "t": "Warung Prancis UMY",
+        "o": "",
+        "p": "November 2024 – Sekarang",
+        "u": "https://www.instagram.com/p/DSypx-2k7MO/?igsh=MXJldTVvZThqZzBoYw==",
+        "b": [
+          "Mengelola promosi bahasa dan budaya Prancis melalui media sosial, serta mengonsep kegiatan interaktif yang memperkenalkan kuliner, tradisi, dan informasi beasiswa kepada mahasiswa.",
+          "Menyelenggarakan rangkaian acara edukatif seperti diskusi buku (Les Amis Lisent) dan kegiatan berbasis komunitas untuk memperluas wawasan internasional audiens melalui pendekatan yang interaktif."
+        ]
+      },
+      {
+        "t": "Volunteer World Diabetes Day",
+        "o": "Gula Bijak",
+        "p": "11 – 23 November 2024",
+        "u": "https://www.instagram.com/gulabijak?igsh=MWY5ZW5hMzhhdWppeQ==",
+        "b": [
+          "Berkontribusi aktif sebagai edukator dalam rangkaian penyuluhan daring untuk meningkatkan kesadaran masyarakat mengenai pentingnya pengelolaan kadar gula darah dan pencegahan diabetes sejak dini.",
+          "Merancang dan menyebarluaskan konten edukasi kreatif tentang pola makan sehat melalui media sosial untuk membangun ruang dialog yang interaktif dan mudah diakses generasi muda."
+        ]
+      }
+    ],
+    "ach": [
+      {
+        "i": "trophy",
+        "t": "Juara 2 Semarak Kewirausahaan",
+        "o": "HIMA FEB UMY",
+        "y": "2025",
+        "u": "https://www.instagram.com/p/DSPlyH8j9KK/?img_index=3&igsh=OHV3dndjNm1sd3l1"
+      },
+      {
+        "i": "trophy",
+        "t": "Lauréate Concours Vidéo \"Gen Z untuk Lestari\"",
+        "o": "",
+        "y": "2025",
+        "u": "https://www.umy.ac.id/mahasiswa-umy-raih-juara-kompetisi-gen-z-untuk-lestari-dalam-seminar-warung-prancis-2025/"
+      },
+      {
+        "i": "trophy",
+        "t": "Bronze Medalist Cendekia Language Competition",
+        "o": "Bidang Bahasa Arab",
+        "y": "2025",
+        "u": ""
+      },
+      {
+        "i": "trophy",
+        "t": "Juara 3 Kompetisi Sains Madrasah tingkat Kabupaten",
+        "o": "Bidang Biologi Terintegrasi",
+        "y": "2022",
+        "u": ""
+      }
+    ],
+    "skl": [
+      {
+        "t": "Keahlian Teknis",
+        "c": [
+          "Microsoft Word & Excel",
+          "Google Workspace",
+          "Odoo ERP"
+        ],
+        "n": ""
+      },
+      {
+        "t": "Soft Skills",
+        "c": [
+          "Public Speaking",
+          "Problem Solving",
+          "Critical Thinking",
+          "Adaptability",
+          "Peer Education",
+          "Collaboration"
+        ],
+        "n": ""
+      },
+      {
+        "t": "Bahasa",
+        "c": [
+          "Indonesia (Penutur Asli)",
+          "Jawa (Aktif)",
+          "English (Tingkat Dasar)"
+        ],
+        "n": ""
+      }
+    ],
+    "fold": {
+      "exp": [],
+      "org": [],
+      "ach": [],
+      "skl": []
+    }
+  },
+  "el": {
+    "Bintro/div2/div1": {
+      "a": "justify"
+    },
+    "#cvSkl/div3": {
+      "x": 2,
+      "y": -171
+    },
+    "#ft_rc": {
+      "x": -1,
+      "y": -153
+    },
+    "Bintro/div4/div1": {
+      "a": "justify"
+    },
+    "#cardList/div6/input1": {
+      "h": true
+    },
+    "#cardList/div6/div0/input2": {
+      "h": true
+    },
+    "#cardList/div6/div0/button1": {
+      "h": true
+    },
+    "#cardList/div6/div0/input0": {
+      "h": true
+    },
+    "#cardList/div5/input1": {
+      "h": true
+    },
+    "#cardList/div5/div0/input2": {
+      "h": true
+    },
+    "#cardList/div5/div0/button1": {
+      "h": true
+    },
+    "#cardList/div5/div0/input0": {
+      "h": true
+    },
+    "L3": {
+      "h": true
+    }
+  },
+  "navHide": [
+    "org",
+    "ach",
+    "home",
+    "lab",
+    "games"
+  ],
+  "ft": {
+    "sp": {
+      "on": 1,
+      "url": "https://open.spotify.com/user/31w7sg3kreisw4krhs4syurh4tdu?si=fe20dd6e8f544daa",
+      "h": 352,
+      "ttl": "",
+      "song": "",
+      "art": ""
+    },
+    "bd": {
+      "on": 1,
+      "st": "collab",
+      "txt": ""
+    },
+    "ws": {
+      "on": 1,
+      "max": 60
+    },
+    "sb": {
+      "on": 1,
+      "btn": [
+        {
+          "e": "🎉",
+          "l": "Confetti",
+          "s": "tada",
+          "f": "confetti"
+        },
+        {
+          "e": "⭐",
+          "l": "Stars",
+          "s": "ding",
+          "f": "stars"
+        },
+        {
+          "e": "🎨",
+          "l": "Theme",
+          "s": "pop",
+          "f": "theme"
+        },
+        {
+          "e": "👏",
+          "l": "Applause",
+          "s": "applause",
+          "f": "hearts"
+        },
+        {
+          "e": "🥁",
+          "l": "Drum",
+          "s": "drum",
+          "f": "shake"
+        },
+        {
+          "e": "🚀",
+          "l": "Rocket",
+          "s": "whoosh",
+          "f": "rocket"
+        },
+        {
+          "e": "🔔",
+          "l": "Bell",
+          "s": "bell",
+          "f": "burst"
+        },
+        {
+          "e": "🪙",
+          "l": "Coin",
+          "s": "coin",
+          "f": "burst"
+        }
+      ]
+    },
+    "now": {
+      "on": 1,
+      "books": [],
+      "proj": [],
+      "learn": [
+        "Mendalami Odoo ERP",
+        "Meningkatkan English ke tingkat menengah",
+        "Belajar bahasa Prancis"
+      ],
+      "upd": ""
+    },
+    "st": {
+      "on": 1,
+      "auto": 1,
+      "extra": []
+    },
+    "mp": {
+      "on": 1,
+      "stops": [
+        "Magetan|Kampung halaman · MAN 3 Magetan",
+        "Yogyakarta|Kuliah Akuntansi · UMY"
+      ],
+      "pts": [
+        {
+          "n": "Yogyakarta",
+          "yr": "2024 – Sekarang",
+          "d": "College Life · UMY",
+          "lat": -7.8,
+          "lng": 110.37,
+          "g": [
+            "assets/ft-mp-pts-0-g-0.jpg",
+            "assets/ft-mp-pts-0-g-1.jpg"
+          ]
+        },
+        {
+          "n": "Ngawi",
+          "yr": "",
+          "d": "",
+          "s": "",
+          "g": [
+            "assets/ft-mp-pts-1-g-0.jpg",
+            "assets/ft-mp-pts-0-g-1.jpg"
+          ],
+          "lat": -7.4,
+          "lng": 111.45
+        }
+      ],
+      "migr": 1,
+      "keep": 1
+    },
+    "pol": {
+      "on": 1,
+      "items": [
+        {
+          "src": "assets/ft-pol-items-0-src.jpg",
+          "cap": "Teamwork"
+        },
+        {
+          "src": "assets/ft-pol-items-1-src.jpg",
+          "cap": "Campus Activities"
+        },
+        {
+          "src": "assets/ft-pol-items-2-src.jpg",
+          "cap": "Study Deck"
+        },
+        {
+          "src": "assets/ft-pol-items-3-src.jpg",
+          "cap": "Good Vibes"
+        }
+      ],
+      "seeded": 1,
+      "cap2": 1
+    },
+    "per": {
+      "on": 1,
+      "sl": [
+        "Introvert|Ekstrovert|50",
+        "Terstruktur|Spontan|50",
+        "Detail|Gambaran besar|50",
+        "Mandiri|Kerja tim|50"
+      ],
+      "tags": [
+        "Problem Solving",
+        "Critical Thinking",
+        "Adaptability",
+        "Collaboration"
+      ],
+      "mbti": "ENFJ",
+      "pills": [
+        "Focus Mode On|Fokus penuh saat mengerjakan hal yang penting",
+        "Organized Planner|Suka menyusun rencana, jadwal, dan administrasi dengan rapi",
+        "Empathetic Collaborator|Mendengarkan dulu, lalu bekerja sama dengan hangat"
+      ],
+      "mbn": ""
+    },
+    "rc": {
+      "on": 0,
+      "mon": "Oktober 2026",
+      "items": []
+    },
+    "fav": {
+      "on": 1,
+      "book": {
+        "k": "Self-Improvement",
+        "t": "Laut Bercerita",
+        "a": "",
+        "u": ""
+      },
+      "pod": {
+        "k": "Podcast",
+        "t": "Podcast Bagrawas",
+        "a": "",
+        "u": ""
+      },
+      "mus": {
+        "t": "",
+        "a": "",
+        "u": "",
+        "audio": "",
+        "seeded": 1
+      },
+      "extra": []
+    },
+    "lib": {
+      "book": {
+        "items": [
+          {
+            "t": "LautBercerita",
+            "a": "",
+            "g": "",
+            "r": 5,
+            "u": "",
+            "img": "assets/ft-lib-book-items-0-img.jpg",
+            "st": "read",
+            "pg": 100
+          }
+        ]
+      },
+      "pod": {
+        "items": []
+      },
+      "sp": {
+        "items": []
+      }
+    },
+    "txt": {
+      "en:t_per": "Personality & work style",
+      "en:t_pol": "Behind the Scenes",
+      "en:t_fav": "Daily favorites",
+      "en:t_st": "At a glance",
+      "en:favS": "Today’s inspiration",
+      "en:t_mp": "Journey",
+      "en:mbtiL": "Personality type",
+      "en:t_ws": "Anonymous Wishbox",
+      "en:t_sb": "Soundboard"
+    },
+    "ord": [
+      "mp",
+      "per",
+      "st",
+      "fav",
+      "now",
+      "pol",
+      "rc"
+    ]
+  }
+}
