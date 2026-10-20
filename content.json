@@ -1,5 +1,5 @@
 {
-  "photo": "assets/foto-profil.jpg",
+  "photo": "foto-profil.jpg",
   "ed": {
     "id": {
       "bio": "Mahasiswa Akuntansi · Ak'24",
@@ -173,7 +173,7 @@
       "intro",
       "edu"
     ],
-    "photo": "assets/about-photo.jpg",
+    "photo": "about-photo.jpg",
     "edu": [
       {
         "y": "2024 – Sekarang",
@@ -181,8 +181,8 @@
         "d": "",
         "x": [],
         "g": [
-          "assets/about-edu-0-g-0.jpg",
-          "assets/about-edu-0-g-1.jpg"
+          "about-edu-0-g-0.jpg",
+          "about-edu-0-g-1.jpg"
         ],
         "lv": "",
         "m": "S1 Akuntansi",
@@ -196,8 +196,8 @@
         "d": "",
         "x": [],
         "g": [
-          "assets/about-edu-0-g-0.jpg",
-          "assets/about-edu-0-g-1.jpg"
+          "about-edu-0-g-0.jpg",
+          "about-edu-0-g-1.jpg"
         ],
         "w": "https://www.instagram.com/man3magetan?utm_source=ig_web_button_share_sheet&vrfl=ZDNlZDc0MzIxNw=="
       }
@@ -227,7 +227,7 @@
         "icon": "📄",
         "label": "Download CV",
         "url": "",
-        "f": "assets/CV_KUMALA_DESY.pdf",
+        "f": "CV_KUMALA_DESY.pdf",
         "fn": "CV_KUMALA_DESY.pdf"
       },
       {
@@ -562,8 +562,8 @@
           "lat": -7.8,
           "lng": 110.37,
           "g": [
-            "assets/ft-mp-pts-0-g-0.jpg",
-            "assets/ft-mp-pts-0-g-1.jpg"
+            "ft-mp-pts-0-g-0.jpg",
+            "ft-mp-pts-0-g-1.jpg"
           ]
         },
         {
@@ -572,8 +572,8 @@
           "d": "",
           "s": "",
           "g": [
-            "assets/ft-mp-pts-1-g-0.jpg",
-            "assets/ft-mp-pts-0-g-1.jpg"
+            "ft-mp-pts-1-g-0.jpg",
+            "ft-mp-pts-0-g-1.jpg"
           ],
           "lat": -7.4,
           "lng": 111.45
@@ -586,19 +586,19 @@
       "on": 1,
       "items": [
         {
-          "src": "assets/ft-pol-items-0-src.jpg",
+          "src": "ft-pol-items-0-src.jpg",
           "cap": "Teamwork"
         },
         {
-          "src": "assets/ft-pol-items-1-src.jpg",
+          "src": "ft-pol-items-1-src.jpg",
           "cap": "Campus Activities"
         },
         {
-          "src": "assets/ft-pol-items-2-src.jpg",
+          "src": "ft-pol-items-2-src.jpg",
           "cap": "Study Deck"
         },
         {
-          "src": "assets/ft-pol-items-3-src.jpg",
+          "src": "ft-pol-items-3-src.jpg",
           "cap": "Good Vibes"
         }
       ],
@@ -664,7 +664,7 @@
             "g": "",
             "r": 5,
             "u": "",
-            "img": "assets/ft-lib-book-items-0-img.jpg",
+            "img": "ft-lib-book-items-0-img.jpg",
             "st": "read",
             "pg": 100
           }

@@ -1935,7 +1935,7 @@ html body.ed[data-view] #scr .page{padding-bottom:calc(190px + env(safe-area-ins
 <div id="scr" tabindex="-1"><div class="page">
   <aside class="profile" style="order: 0; box-sizing: border-box;">
     <label class="avatar has" id="avatar" style="">
-      <img id="photo" alt="Kumala Desy" src="assets/foto-profil.jpg"><span>KD</span>
+      <img id="photo" alt="Kumala Desy" src="foto-profil.jpg"><span>KD</span>
       <input type="file" id="file" accept="image/*" aria-label="Foto" disabled="">
     </label>
     <button class="edit" id="edit" type="button" data-k="edit" style="" hidden="">Change photo</button>
@@ -2705,7 +2705,7 @@ var ICONS={mail:'<rect x="3" y="5" width="18" height="14" rx="3"/><path d="M4 7l
 ICONS.tel='<path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/>';ICONS.trophy='<path d="M8 4h8v5a4 4 0 0 1-8 0z"/><path d="M8 6H5a3 3 0 0 0 3 4M16 6h3a3 3 0 0 1-3 4"/><path d="M12 13v4M8.5 20h7M10 17h4"/>';
 var ALIAS={tel:'tel',telepon:'tel',phone:'tel',trophy:'trophy',instagram:'ig',ig:'ig',tiktok:'tt',tt:'tt',linkedin:'in','in':'in',email:'mail',mail:'mail',lokasi:'pin',pin:'pin',link:'link',web:'link',wa:'wa',whatsapp:'wa'};
 function iconKey(v){v=(v||'').trim();return ALIAS[v.toLowerCase()]||v;}
-function isImg(k){return typeof k==='string'&&(k.indexOf('data:image/')===0||/^assets\/.+\.(png|jpe?g|gif|webp|svg)$/i.test(k));}
+function isImg(k){return typeof k==='string'&&(k.indexOf('data:image/')===0||/^(assets\/)?[^\/:]+\.(png|jpe?g|gif|webp|svg)$/i.test(k));}
 var icMono={};
 function icPut(el,k){
   function mono(){var sp=document.createElement('span');sp.className='ic mono';sp.style.setProperty('--m','url("'+k+'")');el.textContent='';el.appendChild(sp);}
